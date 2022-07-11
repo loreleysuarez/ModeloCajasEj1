@@ -1,7 +1,13 @@
 .primero {
-
+   position: relative;
+   margin-left: 20px;
+   margin-top: 30px;
+   background-color: blueviolet;
 }
 
 .segundo {
-    
+    position: absolute;
+    margin-right: 30px;
+    margin-top: 20px;
+    background-color: pink
 }
